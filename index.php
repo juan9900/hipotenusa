@@ -17,7 +17,7 @@ $hipotenusa = sqrt(pow($cateto1,2)+pow($cateto2,2));
     <title>Hipotenusa</title>
 </head>
 <body>
-    <h1>Calculo de la hipotenusa de un triangulo rectángulo</h1></br>
+    <h1>Calculo de la hipotenusa de un triángulo rectángulo</h1></br>
 
     <p>Cateto 1: <?php echo $cateto1 ?> cm</p></br>
     <p>Cateto 2: <?php echo $cateto2 ?> cm</p></br>
